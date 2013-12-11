@@ -1,0 +1,8 @@
+{
+    "name": "vue-firebase",
+    "version": "0.1.0",
+    "description": "A Firebase adaptor for Vue.js",
+    "keywords": ["vue"],
+    "license": "MIT",
+    "scripts": ["index.js"]
+}
